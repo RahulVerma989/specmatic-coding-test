@@ -6,3 +6,9 @@ lib/*
 *.idea
 .specmatic
 .vscode/*
+
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
